@@ -17,7 +17,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en">
+    <html lang="en" className='overflow-x-hidden'>
       <body className='overflow-x-hidden'>
         <div className='circle-pink h-screen w-screen lg:top-[-40%] lg:left-[-15%;] md:left-[-20%;] sm:top-[-50%] sm:left-[-25%] xs:top-[-50%] xs:right-[40%]'/>
         <div className='circle-yellow h-screen w-screen xl:top-[110%] left-[80%] sm:top-[180%]'/>
