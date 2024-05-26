@@ -13,7 +13,7 @@ const Testimonials = () => {
         <Title title='testimonials' subtitle='Trust our clients' />
       </div>
 
-      <div className='px-40 h-[400px] w-full'>
+      <div className='xs:px-4 md:px-40 h-[400px] w-full'>
         <Carousel pauseOnHover slideInterval={2000} className='py-4'>
           <div className='flex gap-6 flex-col h-full items-center justify-center'>
             <Image className='rounded-[50%]' src="/profile2.jpg" alt="..." width={120} height={100} />
