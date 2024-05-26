@@ -10,7 +10,7 @@ const config: Config = {
   theme: {
     extend: {
       screens: {
-        xs: '400px',
+        'xs': '300px',
         '3xl': '1680px',
         '4xl': '2200px',
       },
