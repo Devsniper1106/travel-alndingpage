@@ -61,7 +61,7 @@ Coming soon
 - [Flowbite](https://www.flowbite-react.com/docs/components/carousel)
 
 ## Author
-Github - [Shabrina Putri](https://github.com/shabrina12)
+Github - [Shabrina Putri](https://github.com/devsniper1106)
 
 ## 🤸 Getting Started
 
